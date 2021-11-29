@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CGPA/CGPA.iml" filepath="$PROJECT_DIR$/CGPA/CGPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DetectInteger/DetectInteger.iml" filepath="$PROJECT_DIR$/DetectInteger/DetectInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncryptDecryptGrade/EncryptDecryptGrade.iml" filepath="$PROJECT_DIR$/EncryptDecryptGrade/EncryptDecryptGrade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetterSetterConstructors/GetterSetterConstructors.iml" filepath="$PROJECT_DIR$/GetterSetterConstructors/GetterSetterConstructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessTheNumberGame/GuessTheNumberGame.iml" filepath="$PROJECT_DIR$/GuessTheNumberGame/GuessTheNumberGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello World/Hello World.iml" filepath="$PROJECT_DIR$/Hello World/Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello_MyName/Hello_MyName.iml" filepath="$PROJECT_DIR$/Hello_MyName/Hello_MyName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IncomeTaxCalculator/IncomeTaxCalculator.iml" filepath="$PROJECT_DIR$/IncomeTaxCalculator/IncomeTaxCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InfiniteLoop/InfiniteLoop.iml" filepath="$PROJECT_DIR$/InfiniteLoop/InfiniteLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InitialFinalVelocity/InitialFinalVelocity.iml" filepath="$PROJECT_DIR$/InitialFinalVelocity/InitialFinalVelocity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IntelliJ.iml" filepath="$PROJECT_DIR$/.idea/IntelliJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KMtoMILES/KMtoMILES.iml" filepath="$PROJECT_DIR$/KMtoMILES/KMtoMILES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnlineLibrary/OnlineLibrary.iml" filepath="$PROJECT_DIR$/OnlineLibrary/OnlineLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OwnJavaClass/OwnJavaClass.iml" filepath="$PROJECT_DIR$/OwnJavaClass/OwnJavaClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PercentageCalculator/PercentageCalculator.iml" filepath="$PROJECT_DIR$/PercentageCalculator/PercentageCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeSetCH7/PracticeSetCH7.iml" filepath="$PROJECT_DIR$/PracticeSetCH7/PracticeSetCH7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeSetCH9/PracticeSetCH9.iml" filepath="$PROJECT_DIR$/PracticeSetCH9/PracticeSetCH9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeSetCH3/PracticeSetCh3.iml" filepath="$PROJECT_DIR$/PracticeSetCH3/PracticeSetCh3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RockPaperScissorGame/RockPaperScissorGame.iml" filepath="$PROJECT_DIR$/RockPaperScissorGame/RockPaperScissorGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringMethods/StringMethods.iml" filepath="$PROJECT_DIR$/StringMethods/StringMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumoftwoNos/SumoftwoNos.iml" filepath="$PROJECT_DIR$/SumoftwoNos/SumoftwoNos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeOfWebsite/TypeOfWebsite.iml" filepath="$PROJECT_DIR$/TypeOfWebsite/TypeOfWebsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsingMethods/UsingMethods.iml" filepath="$PROJECT_DIR$/UsingMethods/UsingMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VelocityFormula/VelocityFormula.iml" filepath="$PROJECT_DIR$/VelocityFormula/VelocityFormula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComparisonOperatorcheck/comparisonOperatorcheck.iml" filepath="$PROJECT_DIR$/ComparisonOperatorcheck/comparisonOperatorcheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchCase/switchCase.iml" filepath="$PROJECT_DIR$/switchCase/switchCase.iml" />
+    </modules>
+  </component>
+</project>
